@@ -1,1 +1,1 @@
-# Ping-Pong-Score-Keeper
+JavaScript driven ping pong score counter.
