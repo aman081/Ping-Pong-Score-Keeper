@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section{
+    height:600 px;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+}
+
+.pong{
+    height:300px;
+    width:400px;
+}
+
+.pong img{
+    height:300px;
+    width:400px;
+    
+}
+
+.score{
+    font-size:50px;
+}
+
+.red{
+ 
+    color:red;
+}
+.green{
+    color: green;
+}
+
+
